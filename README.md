@@ -1,5 +1,5 @@
 # Flood Stage Prediction System
-This project, titled "Flood Stage Prediction System," is a collaborative effort between Ashish and Nishant. The goal of this project is to develop a predictive system using various deep learning models such as Convolutional Neural Networks (CNN), Long Short-Term Memory networks (LSTM), Gated Recurrent Unit networks (GRU), and other relevant techniques to forecast flood stages.
+This project, titled "Flood Stage Prediction System," is a collaborative effort between Komal and Ashish. The goal of this project is to develop a predictive system using various deep learning models such as Convolutional Neural Networks (CNN), Long Short-Term Memory networks (LSTM), Gated Recurrent Unit networks (GRU), and other relevant techniques to forecast flood stages.
 
 Project Overview
 Floods are one of the most destructive natural disasters that can lead to loss of life, property damage, and economic impact. Predicting flood stages accurately is crucial for effective disaster management and mitigation. This project aims to create a system that can predict flood stages based on historical data, weather information, and other relevant factors.
